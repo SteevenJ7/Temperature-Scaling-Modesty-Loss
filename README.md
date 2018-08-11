@@ -18,3 +18,4 @@ Simple framework in pytorch using Temperature Scaling and Modesty Loss to improv
 
 # Note
 Modesty Loss is an improvment of Temperature Scaling proposed by :https://github.com/gpleiss/temperature_scaling
+Pretrained AlexNet networks are available as PoC. ImageNet option in test.py load the pretrained networks given by Pytorch.
